@@ -1,13 +1,18 @@
-# Frontend Mentor - Fylo landing page with dark theme and features grid
+# Fylo landing page
+:iphone: Website is fully responsive
 
-![Design preview for the Fylo landing page with dark theme and features grid challenge](./design/desktop-preview.jpg)
+Live URL: [https://inspiring-cori-55b11a.netlify.app/](https://inspiring-cori-55b11a.netlify.app/)
 
-## Welcome! 👋
+## Technology stack
+  - HTML
+  - SCSS
 
-Thanks for checking out my solution for this challenge. :blush:
+## Preview design
+Design come from [Frontend Mentor](https://frontendmentor.io) website and it is a one of their challenges.
 
-Check [Frontend Mentor](https://beta.frontendmentor.io) website. Their challenges allow you to improve your skills in a real-life workflow.
+![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
+
 
 ## Lighthouse report
 
-![Lighthouse report for my solution](./lighthouse-report/lighthouse-08-challenge.JPG)
+![Lighthouse report for my solution](./lighthouse-report/lighthouse.jpg)
